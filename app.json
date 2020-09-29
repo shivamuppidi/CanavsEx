@@ -1,7 +1,7 @@
 {
   "name": "CanavsEx",
   "description": "Heroku Connect Sample App - CanavsEx",
-  "repository": "https://github.com/jamesward/heroku-connect-CanavsEx",
+  "repository": "https://github.com/shivamuppidi/CanavsEx",
   "success_url": "/setup.html",
   "env": {
     "PGSSLMODE": {
